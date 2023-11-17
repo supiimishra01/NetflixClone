@@ -2,7 +2,7 @@
 
 Clone of the Netflix website as a light HTML CSS and JS excercise-
 
-Link : https://supiimishra01.github.io/NetflixClone
+Link : [https://supiimishra01.github.io/NetflixClone](https://netflix-clone-7b1f97.netlify.app/)
 
 
 
